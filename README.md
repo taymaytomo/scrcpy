@@ -6,7 +6,8 @@ scrcpy phản chiếu màn hình điện thoại Android lên máy tính
 pronounced "screen copy"
 
 This application mirrors Android devices (video and audio) connected via USB or over TCP/IP, and allows to control the device with the keyboard and the mouse of the computer. It does not require any **root access**. It works on **Linux, Windows and macOS**.
-<img align="left" alt="screenshot" style="max-width: 100%" src="https://github.com/Genymobile/scrcpy/blob/master/assets/screenshot-debian-600.jpg">
+
+<img src="https://github.com/Genymobile/scrcpy/blob/master/assets/screenshot-debian-600.jpg">
 
 It focuses on:
 
@@ -21,7 +22,7 @@ It focuses on:
 
 Its features include:
 
-- audio forwarding (Android >= 11)
+- audio forwarding **(Android >= 11)**
 - recording
 - mirroring with Android device screen off
 - copy-paste in both directions
@@ -36,11 +37,11 @@ The Android device requires at least API 21 (Android 5.0).
 
 Audio forwarding is supported for API >= 30 (Android 11+).
 
-Make sure you `enabled USB debugging on your device(s)`.
+Make sure you **`enabled USB debugging on your device(s)`**.
 
-On some devices, you also need to enable an additional option `USB debugging (Security Settings)` (this is an item different from USB debugging) to control it using a keyboard and mouse. Rebooting the device is necessary once this option is set.
+On some devices, you also need to enable an additional option **`USB debugging (Security Settings)`** (this is an item different from USB debugging) to control it using a keyboard and mouse. Rebooting the device is necessary once this option is set.
 
-Note that `USB debugging` is not required to run scrcpy in OTG mode.
+Note that **`USB debugging`** is not required to run scrcpy in OTG mode.
 
 # Get the app
 - Linux
@@ -49,4 +50,4 @@ Note that `USB debugging` is not required to run scrcpy in OTG mode.
 
 # Youtube
 - https://www.youtube.com/@TinHocThucHanh1984
-- Zalo: O85 240 1180
+- Zalo: **O85 240 1180**
