@@ -1,5 +1,6 @@
 <img align="left" alt="screenshot" style="max-width: 100%" src="https://github.com/Genymobile/scrcpy/blob/master/app/data/icon.svg">
-# scrcpy
+
+# scrcpy (v2.1.1)
 scrcpy phản chiếu màn hình điện thoại Android lên máy tính
 
 pronounced "screen copy"
